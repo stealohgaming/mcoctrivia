@@ -1,4 +1,4 @@
-# mcoctrivia
+mcoctrivia
 mcoctrivia.yaml
 Designed to integrate with Redcog trivia background code
 Fork requests permission please
